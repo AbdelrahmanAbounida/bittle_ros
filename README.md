@@ -5,7 +5,7 @@
 [![Gazebo](https://img.shields.io/badge/GAZEBO-orange?logo=gazebo&logoColor=white)](https://gazebosim.org/home)
 
 <p align="center">
-<img  src="./dist_cam_web.gif" />
+<img  src="./follow.gif" />
 </p>
 
 <br />
